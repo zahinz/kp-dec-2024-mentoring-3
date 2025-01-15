@@ -1,0 +1,9 @@
+/* BOOTSTRAP CLASS OVERIDE */
+
+.btn {
+  border-radius: 0;
+}
+
+.btn-primary {
+  background-color: black !important;
+}
